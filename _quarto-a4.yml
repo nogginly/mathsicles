@@ -1,0 +1,7 @@
+# A5 pages, printed two per side on A4.
+project:
+  output-dir: _output/a4
+
+format:
+  typst:
+    papersize: a5

@@ -5,17 +5,22 @@
 #   bundle exec rake pdfs       build stale PDFs only
 #   bundle exec rake clobber    delete all build output
 #
+# Set PAPER to the sheet size you print on: letter (default) or a4.
 # Set QUARTO to use a quarto binary that is not on PATH.
 
 require "rake/clean"
 
 QUARTO = ENV.fetch("QUARTO", "quarto")
-OUTPUT = "_output"
-SHARED = FileList["_quarto.yml", "templates/*"]
+PAPER = ENV.fetch("PAPER", "letter")
+PROFILE = "_quarto-#{PAPER}.yml"
+abort "Unknown PAPER '#{PAPER}': no #{PROFILE}" unless File.exist?(PROFILE)
+
+OUTPUT = File.join("_output", PAPER)
+SHARED = FileList["_quarto.yml", PROFILE, "templates/*"]
 FIGURE_SCRIPTS = FileList["topics/*/figures/make_figures.rb"]
 SOURCES = FileList["topics/**/*.md", "answers/**/*.md"]
 
-CLOBBER.include(OUTPUT, ".quarto")
+CLOBBER.include("_output", ".quarto")
 
 def pdf_for(source) = File.join(OUTPUT, source.ext("pdf"))
 
@@ -40,7 +45,7 @@ end
 SOURCES.each do |source|
   strand_figures = FileList[File.join("topics", source.pathmap("%{^[^/]+/,}d"), "figures", "*.svg")]
   file pdf_for(source) => [source, *SHARED, *strand_figures] do
-    sh QUARTO, "render", source
+    sh QUARTO, "render", source, "--profile", PAPER
   end
 end
 

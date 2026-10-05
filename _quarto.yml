@@ -1,12 +1,13 @@
 project:
-  output-dir: _output
   render:
     - topics/**/*.md
     - answers/**/*.md
 
+profile:
+  default: letter
+
 format:
   typst:
-    papersize: a5
     margin:
       x: 1.4cm
       y: 1.4cm
