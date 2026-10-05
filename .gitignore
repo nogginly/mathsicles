@@ -1,0 +1,18 @@
+# Quarto build output and cache
+_output/
+.quarto/
+*_files/
+
+# Booklets assembled in the repo root (see README → Printing)
+/*.pdf
+
+# Python (figure scripts)
+__pycache__/
+.venv/
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
