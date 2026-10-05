@@ -6,9 +6,8 @@ _output/
 # Booklets assembled in the repo root (see README → Printing)
 /*.pdf
 
-# Python (figure scripts)
-__pycache__/
-.venv/
+# Ruby
+.bundle/vendor
 
 # OS and editor clutter
 .DS_Store
