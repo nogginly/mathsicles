@@ -1,0 +1,18 @@
+# Quarto build output and cache
+_output/
+*_files/
+/.quarto/
+**/*.quarto_ipynb
+
+# Booklets assembled in the repo root (see README → Printing)
+/*.pdf
+
+# Ruby
+.bundle/vendor
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

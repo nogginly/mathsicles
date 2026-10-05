@@ -1,0 +1,15 @@
+project:
+  render:
+    - topics/**/*.md
+    - answers/**/*.md
+
+profile:
+  default: letter
+
+format:
+  typst:
+    margin:
+      x: 1.4cm
+      y: 1.4cm
+    fontsize: 11pt
+    include-in-header: templates/worksheet.typ

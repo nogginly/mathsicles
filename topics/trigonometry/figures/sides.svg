@@ -1,0 +1,18 @@
+<svg viewBox="0 0 312.0 240.0" width="312.0" height="240.0" xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="48.0,198.0 288.0,198.0 48.0,18.0" fill="none" stroke="black" stroke-width="2"/>
+<polyline points="66.0,198.0 66.0,180.0 48.0,180.0" fill="none" stroke="black" stroke-width="1.2"/>
+<text x="168.0" y="222.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+adjacent
+</text>
+<text x="24.0" y="108.0" dy="0.35em" transform="rotate(-90 24.0 108.0)" font-size="16" text-anchor="middle" font-family="serif">
+opposite
+</text>
+<text x="183.0" y="90.0" dy="0.35em" transform="rotate(36.87 183.0 90.0)" font-size="16" text-anchor="middle" font-family="serif">
+hypotenuse
+</text>
+<path d="M 254.4 172.8 A 42.0 42.0 0 0 0 246.0 198.0" fill="none" stroke="black" stroke-width="1.2"/>
+<text x="228.23" y="178.08" dy="0.35em" font-size="20" font-style="italic" text-anchor="middle" font-family="serif">
+θ
+</text>
+</svg>
