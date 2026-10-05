@@ -1,8 +1,10 @@
-# Disclosure for Adjutant
+# Disclosure for Mathsicles
 
 ## AI Usage
 
 This project is an example of my selective use of LLMs to build small, well-defined, and useful libraries and tools _that I understand as if I wrote them myself_.
+
+The same applies to the worksheets: lessons, exercises and answers were drafted with an LLM, then reviewed and checked by me before publication.
 
 ### Level 5
 

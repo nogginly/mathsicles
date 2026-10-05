@@ -2,6 +2,8 @@
 
 Bite-sized maths worksheets for Grade 9 and 10 students, written in Markdown and printed as compact half-page sheets. Each topic is small enough to finish in one sitting; topics build on one another so that, lick by lick, a whole subject gets covered.
 
+> See [DISCLOSURE](./DISCLOSURE.md) for information how AI is used by this project.
+
 ## How a worksheet is structured
 
 Every topic is four pages, each half a sheet. Printed two pages per side, double-sided, it makes a single sheet: half-letter pages on US Letter (the default), or A5 pages on A4.
