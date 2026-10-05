@@ -1,7 +1,8 @@
 # Quarto build output and cache
 _output/
-.quarto/
 *_files/
+/.quarto/
+**/*.quarto_ipynb
 
 # Booklets assembled in the repo root (see README → Printing)
 /*.pdf
