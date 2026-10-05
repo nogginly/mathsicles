@@ -99,6 +99,14 @@ For A4, use `_output/a4/` and `--a4paper`.
 
 Alternatively, many printers have a "booklet" mode that does the imposition for you.
 
+## Contributions, by invitation!
+
+*With apologies*, at this time contributions are *by invitation only* and limited to people I know and see often.
+
+These are early days for _Mathsicles_ and I am busy with family and work.
+
+At this time I want to work on this at a manageable pace.
+
 ## License
 
 Mozilla Public License 2.0. See [LICENSE](LICENSE).
