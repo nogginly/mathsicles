@@ -51,7 +51,7 @@ Each topic's front matter records its `id` and the ids it `requires`, so the ord
 
 ## Building the PDFs
 
-**Requirements:** [Quarto](https://quarto.org) 1.4 or later, which bundles Typst, so no LaTeX installation is needed; Ruby 3.1 or later with Bundler. Install the gems once from the repository root:
+**Requirements:** [Quarto](https://quarto.org) 1.4 or later, which bundles Typst, so no LaTeX installation is needed; Ruby 3.2 or later with Bundler. Install the gems once from the repository root:
 
 ```sh
 bundle install
