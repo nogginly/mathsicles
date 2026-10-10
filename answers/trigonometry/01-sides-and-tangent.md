@@ -3,11 +3,7 @@ title: "Answers: Trigonometry 1"
 id: trig-01
 ---
 
-## Practice
-
-1. Hypotenuse $p$, opposite $r$, adjacent $q$.
-2. Hypotenuse $p$, opposite $q$, adjacent $r$.
-3. $\tan\theta = \frac{6}{8} = 0.75$
+{{< include _01-sides-and-tangent.practice.md >}}
 
 ## Stretch
 

@@ -18,7 +18,7 @@ abort "Unknown PAPER '#{PAPER}': no #{PROFILE}" unless File.exist?(PROFILE)
 OUTPUT = File.join("_output", PAPER)
 SHARED = FileList["_quarto.yml", PROFILE, "templates/*"]
 FIGURE_SCRIPTS = FileList["topics/*/figures/make_figures.rb"]
-SOURCES = FileList["topics/**/*.md", "answers/**/*.md"]
+SOURCES = FileList["topics/**/*.md", "answers/**/*.md"].exclude("**/_*.md")
 
 CLOBBER.include("_output", ".quarto")
 
@@ -44,7 +44,8 @@ end
 
 SOURCES.each do |source|
   strand_figures = FileList[File.join("topics", source.pathmap("%{^[^/]+/,}d"), "figures", "*.svg")]
-  file pdf_for(source) => [source, *SHARED, *strand_figures] do
+  partials = FileList[File.join(File.dirname(source), "_*.md")]
+  file pdf_for(source) => [source, *SHARED, *partials, *strand_figures] do
     sh QUARTO, "render", source, "--profile", PAPER
   end
 end

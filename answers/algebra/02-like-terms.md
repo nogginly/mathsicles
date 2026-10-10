@@ -3,11 +3,7 @@ title: "Answers: Collecting like terms"
 id: alg-02
 ---
 
-## Practice
-
-1. $5y$
-2. $6m + 2n$
-3. $7k + 4$
+{{< include _02-like-terms.practice.md >}}
 
 ## Stretch
 

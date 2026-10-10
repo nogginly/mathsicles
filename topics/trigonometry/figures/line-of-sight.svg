@@ -1,0 +1,31 @@
+<svg viewBox="0 0 506 198.0" width="506" height="198.0" xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="334.4,118.8 334.4,162.8 462,162.8" fill="#d9d9d9" stroke="none"/>
+<line x1="0" y1="162.8" x2="506" y2="162.8" stroke="black" stroke-width="1.6"/>
+<rect x="39.6" y="30.8" width="26.4" height="132" fill="none" stroke="black" stroke-width="1.4"/>
+<rect x="325.6" y="118.8" width="8.8" height="44" fill="#888" stroke="black" stroke-width="1.4"/>
+<line x1="66" y1="30.8" x2="462" y2="162.8" stroke="black" stroke-width="1.3" stroke-dasharray="6 4"/>
+<circle cx="66" cy="30.8" r="5" fill="black"/>
+<circle cx="352" cy="155.1" r="5" fill="black"/>
+<text x="66" y="15.4" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+archer
+</text>
+<text x="19.8" y="96.8" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+6 m
+</text>
+<text x="308.0" y="140.8" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+2 m
+</text>
+<text x="330" y="105.6" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+wall
+</text>
+<text x="354.2" y="140.8" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+rogue
+</text>
+<text x="198" y="178.2" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+12 m
+</text>
+<text x="407.0" y="178.2" dy="0.35em" font-size="14" text-anchor="middle" font-family="serif">
+hidden strip: ? m
+</text>
+</svg>
