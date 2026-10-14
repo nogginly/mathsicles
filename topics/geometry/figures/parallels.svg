@@ -1,0 +1,39 @@
+<svg viewBox="0 0 384.0 168.0" width="384.0" height="168.0" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="12.0" y1="104.0" x2="172.0" y2="104.0" stroke="black" stroke-width="1.8"/>
+<line x1="142.0" y1="99.2" x2="148.0" y2="104.0" stroke="black" stroke-width="1.4"/>
+<line x1="142.0" y1="108.8" x2="148.0" y2="104.0" stroke="black" stroke-width="1.4"/>
+<line x1="12.0" y1="44.0" x2="172.0" y2="44.0" stroke="black" stroke-width="1.8"/>
+<line x1="142.0" y1="39.2" x2="148.0" y2="44.0" stroke="black" stroke-width="1.4"/>
+<line x1="142.0" y1="48.8" x2="148.0" y2="44.0" stroke="black" stroke-width="1.4"/>
+<line x1="54.0" y1="135.18" x2="124.64" y2="12.82" stroke="black" stroke-width="1.8"/>
+<path d="M 84.8 104.0 A 12.8 12.8 0 0 0 78.4 92.91" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="94.52" y="91.0" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+60°
+</text>
+<path d="M 121.84 44.0 A 15.2 15.2 0 0 0 114.24 30.84" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="131.24" y="29.8" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+60°
+</text>
+<text x="92.0" y="152.0" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+corresponding (F)
+</text>
+<line x1="212.0" y1="104.0" x2="372.0" y2="104.0" stroke="black" stroke-width="1.8"/>
+<line x1="342.0" y1="99.2" x2="348.0" y2="104.0" stroke="black" stroke-width="1.4"/>
+<line x1="342.0" y1="108.8" x2="348.0" y2="104.0" stroke="black" stroke-width="1.4"/>
+<line x1="212.0" y1="44.0" x2="372.0" y2="44.0" stroke="black" stroke-width="1.8"/>
+<line x1="342.0" y1="39.2" x2="348.0" y2="44.0" stroke="black" stroke-width="1.4"/>
+<line x1="342.0" y1="48.8" x2="348.0" y2="44.0" stroke="black" stroke-width="1.4"/>
+<line x1="254.0" y1="135.18" x2="324.64" y2="12.82" stroke="black" stroke-width="1.8"/>
+<path d="M 284.8 104.0 A 12.8 12.8 0 0 0 278.4 92.91" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="294.52" y="91.0" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+60°
+</text>
+<path d="M 291.44 44.0 A 15.2 15.2 0 0 0 299.04 57.16" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="282.05" y="58.2" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+60°
+</text>
+<text x="292.0" y="152.0" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+alternate (Z)
+</text>
+</svg>

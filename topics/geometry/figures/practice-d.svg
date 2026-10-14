@@ -1,0 +1,20 @@
+<svg viewBox="0 0 189.0 189.0" width="189.0" height="189.0" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="94.5" y1="94.5" x2="177.09" y2="72.37" stroke="black" stroke-width="1.8"/>
+<line x1="94.5" y1="94.5" x2="109.35" y2="10.3" stroke="black" stroke-width="1.8"/>
+<line x1="94.5" y1="94.5" x2="11.91" y2="116.63" stroke="black" stroke-width="1.8"/>
+<line x1="94.5" y1="94.5" x2="79.65" y2="178.7" stroke="black" stroke-width="1.8"/>
+<path d="M 112.76 89.61 A 18.9 18.9 0 0 0 97.78 75.89" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="122.47" y="63.98" dy="0.35em" font-size="20" text-anchor="middle" font-family="serif">
+65°
+</text>
+<path d="M 98.56 71.46 A 23.400000000000002 23.400000000000002 0 0 0 71.9 100.56" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="60.66" y="63.49" dy="0.35em" font-size="20" text-anchor="middle" font-family="serif" font-style="italic">
+b
+</text>
+<path d="M 76.24 99.39 A 18.9 18.9 0 0 0 91.22 113.11" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="66.53" y="125.02" dy="0.35em" font-size="20" text-anchor="middle" font-family="serif" font-style="italic">
+a
+</text>
+<circle cx="94.5" cy="94.5" r="3.5" fill="black"/>
+</svg>

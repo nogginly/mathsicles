@@ -1,0 +1,32 @@
+<svg viewBox="0 0 250.79999999999998 304.0" width="250.79999999999998" height="304.0" xmlns="http://www.w3.org/2000/svg">
+
+<circle cx="136.8" cy="190.0" r="95.0" fill="none" stroke="black" stroke-width="1.6"/>
+<line x1="136.8" y1="22.8" x2="136.8" y2="95.0" stroke="#777" stroke-width="1.2"/>
+<line x1="104.31" y1="22.8" x2="104.31" y2="100.73" stroke="#777" stroke-width="1.2"/>
+<line x1="174.8" y1="22.8" x2="174.8" y2="102.93" stroke="#777" stroke-width="1.2"/>
+<line x1="212.8" y1="22.8" x2="212.8" y2="133.0" stroke="#777" stroke-width="1.2"/>
+<line x1="136.8" y1="190.0" x2="136.8" y2="95.0" stroke="black" stroke-width="1.2" stroke-dasharray="5 3"/>
+<line x1="136.8" y1="190.0" x2="104.31" y2="100.73" stroke="black" stroke-width="1.2" stroke-dasharray="5 3"/>
+<line x1="104.31" y1="100.73" x2="92.61" y2="68.59" stroke="black" stroke-width="2.6"/>
+<path d="M 104.31 79.83 A 20.900000000000002 20.900000000000002 0 0 0 97.16 81.09" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="99.74" y="57.27" dy="0.35em" font-size="15" text-anchor="middle" font-family="serif">
+7.2°
+</text>
+<path d="M 136.8 167.2 A 22.8 22.8 0 0 0 129.0 168.58" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="125.4" y="153.9" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+?
+</text>
+<circle cx="136.8" cy="190.0" r="3.5" fill="black"/>
+<text x="163.4" y="115.9" dy="0.35em" font-size="15" text-anchor="middle" font-family="serif">
+Syene
+</text>
+<text x="49.4" y="102.6" dy="0.35em" font-size="15" text-anchor="middle" font-family="serif">
+Alexandria
+</text>
+<text x="193.8" y="11.4" dy="0.35em" font-size="15" text-anchor="middle" font-family="serif">
+sun's rays
+</text>
+<text x="209.0" y="292.6" dy="0.35em" font-size="13" text-anchor="middle" font-family="serif" font-style="italic">
+not to scale
+</text>
+</svg>

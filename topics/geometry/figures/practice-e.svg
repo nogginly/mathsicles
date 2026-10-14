@@ -1,0 +1,22 @@
+<svg viewBox="0 0 220.79999999999998 177.60000000000002" width="220.79999999999998" height="177.60000000000002" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="14.4" y1="124.8" x2="206.4" y2="124.8" stroke="black" stroke-width="1.8"/>
+<line x1="170.4" y1="119.04" x2="177.6" y2="124.8" stroke="black" stroke-width="1.4"/>
+<line x1="170.4" y1="130.56" x2="177.6" y2="124.8" stroke="black" stroke-width="1.4"/>
+<line x1="14.4" y1="52.8" x2="206.4" y2="52.8" stroke="black" stroke-width="1.8"/>
+<line x1="170.4" y1="47.04" x2="177.6" y2="52.8" stroke="black" stroke-width="1.4"/>
+<line x1="170.4" y1="58.56" x2="177.6" y2="52.8" stroke="black" stroke-width="1.4"/>
+<line x1="71.62" y1="165.39" x2="127.38" y2="12.21" stroke="black" stroke-width="1.8"/>
+<path d="M 91.65 110.37 A 15.36 15.36 0 0 0 71.04 124.8" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="68.5" y="99.24" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+110°
+</text>
+<path d="M 130.85 52.8 A 18.240000000000002 18.240000000000002 0 0 0 118.84 35.66" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="140.52" y="33.25" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif" font-style="italic">
+c
+</text>
+<path d="M 107.35 67.23 A 15.36 15.36 0 0 0 127.97 52.8" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="130.5" y="78.36" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif" font-style="italic">
+d
+</text>
+</svg>

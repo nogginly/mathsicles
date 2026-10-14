@@ -1,0 +1,38 @@
+<svg viewBox="0 0 240.0 255.99999999999997" width="240.0" height="255.99999999999997" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="96.0" y1="232.0" x2="144.0" y2="232.0" stroke="black" stroke-width="2.2"/>
+<line x1="96.0" y1="24.0" x2="144.0" y2="24.0" stroke="black" stroke-width="2.2"/>
+<line x1="96.0" y1="232.0" x2="96.0" y2="72.0" stroke="black" stroke-width="2.2"/>
+<line x1="144.0" y1="184.0" x2="144.0" y2="24.0" stroke="black" stroke-width="2.2"/>
+<line x1="104.0" y1="40.0" x2="136.0" y2="72.0" stroke="#555" stroke-width="4"/>
+<line x1="104.0" y1="192.0" x2="136.0" y2="224.0" stroke="#555" stroke-width="4"/>
+<line x1="24.0" y1="56.0" x2="120.0" y2="56.0" stroke="black" stroke-width="1.3" stroke-dasharray="5 3"/>
+<line x1="120.0" y1="56.0" x2="120.0" y2="208.0" stroke="black" stroke-width="1.3" stroke-dasharray="5 3"/>
+<line x1="120.0" y1="208.0" x2="216.0" y2="208.0" stroke="black" stroke-width="1.3" stroke-dasharray="5 3"/>
+<line x1="56.0" y1="56.0" x2="48.38" y2="51.6" stroke="black" stroke-width="1.3"/>
+<line x1="56.0" y1="56.0" x2="48.38" y2="60.4" stroke="black" stroke-width="1.3"/>
+<line x1="120.0" y1="132.0" x2="124.4" y2="124.38" stroke="black" stroke-width="1.3"/>
+<line x1="120.0" y1="132.0" x2="115.6" y2="124.38" stroke="black" stroke-width="1.3"/>
+<line x1="176.0" y1="208.0" x2="168.38" y2="203.6" stroke="black" stroke-width="1.3"/>
+<line x1="176.0" y1="208.0" x2="168.38" y2="212.4" stroke="black" stroke-width="1.3"/>
+<path d="M 110.1 46.1 A 14.0 14.0 0 0 0 106.0 56.0" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="86.0" y="38.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+45°
+</text>
+<path d="M 129.9 217.9 A 14.0 14.0 0 0 0 134.0 208.0" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="154.0" y="216.0" dy="0.35em" font-size="18" text-anchor="middle" font-family="serif">
+?
+</text>
+<text x="40.0" y="42.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+light in
+</text>
+<text x="202.0" y="194.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+to your eye
+</text>
+<text x="176.0" y="56.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+mirror
+</text>
+<text x="60.0" y="208.0" dy="0.35em" font-size="16" text-anchor="middle" font-family="serif">
+mirror
+</text>
+</svg>
