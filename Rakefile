@@ -16,7 +16,7 @@ PROFILE = "_quarto-#{PAPER}.yml"
 abort "Unknown PAPER '#{PAPER}': no #{PROFILE}" unless File.exist?(PROFILE)
 
 OUTPUT = File.join("_output", PAPER)
-SHARED = FileList["_quarto.yml", PROFILE, "templates/*"]
+SHARED = FileList["_quarto.yml", PROFILE, "templates/*", "**/_metadata.yml"]
 FIGURE_SCRIPTS = FileList["topics/*/figures/make_figures.rb"]
 SOURCES = FileList["topics/**/*.md", "answers/**/*.md"].exclude("**/_*.md")
 

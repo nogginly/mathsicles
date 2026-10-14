@@ -1,0 +1,15 @@
+<svg viewBox="0 0 216.0 108.0" width="216.0" height="108.0" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="108.0" y1="85.5" x2="193.5" y2="85.5" stroke="black" stroke-width="1.8"/>
+<line x1="108.0" y1="85.5" x2="81.58" y2="4.18" stroke="black" stroke-width="1.8"/>
+<line x1="108.0" y1="85.5" x2="22.5" y2="85.5" stroke="black" stroke-width="1.8"/>
+<path d="M 126.9 85.5 A 18.9 18.9 0 0 0 102.16 67.53" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="132.33" y="52.01" dy="0.35em" font-size="20" text-anchor="middle" font-family="serif" font-style="italic">
+a
+</text>
+<path d="M 100.77 63.25 A 23.400000000000002 23.400000000000002 0 0 0 84.6 85.5" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="70.87" y="58.52" dy="0.35em" font-size="20" text-anchor="middle" font-family="serif">
+72°
+</text>
+<circle cx="108.0" cy="85.5" r="3.5" fill="black"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg viewBox="0 0 306.6 193.2" width="306.6" height="193.2" xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="-25.2,205.72 -46.2,169.35 -88.2,169.35 -109.2,205.72 -88.2,242.09 -46.2,242.09" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="-25.2,132.97 -46.2,96.6 -88.2,96.6 -109.2,132.97 -88.2,169.35 -46.2,169.35" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="-25.2,60.23 -46.2,23.85 -88.2,23.85 -109.2,60.23 -88.2,96.6 -46.2,96.6" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="-25.2,-12.52 -46.2,-48.89 -88.2,-48.89 -109.2,-12.52 -88.2,23.85 -46.2,23.85" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="37.8,169.35 16.8,132.97 -25.2,132.97 -46.2,169.35 -25.2,205.72 16.8,205.72" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="37.8,96.6 16.8,60.23 -25.2,60.23 -46.2,96.6 -25.2,132.97 16.8,132.97" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="37.8,23.85 16.8,-12.52 -25.2,-12.52 -46.2,23.85 -25.2,60.23 16.8,60.23" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="100.8,205.72 79.8,169.35 37.8,169.35 16.8,205.72 37.8,242.09 79.8,242.09" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="100.8,132.97 79.8,96.6 37.8,96.6 16.8,132.97 37.8,169.35 79.8,169.35" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="100.8,60.23 79.8,23.85 37.8,23.85 16.8,60.23 37.8,96.6 79.8,96.6" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="100.8,-12.52 79.8,-48.89 37.8,-48.89 16.8,-12.52 37.8,23.85 79.8,23.85" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="163.8,169.35 142.8,132.97 100.8,132.97 79.8,169.35 100.8,205.72 142.8,205.72" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="163.8,96.6 142.8,60.23 100.8,60.23 79.8,96.6 100.8,132.97 142.8,132.97" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="163.8,23.85 142.8,-12.52 100.8,-12.52 79.8,23.85 100.8,60.23 142.8,60.23" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="226.8,205.72 205.8,169.35 163.8,169.35 142.8,205.72 163.8,242.09 205.8,242.09" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="226.8,132.97 205.8,96.6 163.8,96.6 142.8,132.97 163.8,169.35 205.8,169.35" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="226.8,60.23 205.8,23.85 163.8,23.85 142.8,60.23 163.8,96.6 205.8,96.6" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="226.8,-12.52 205.8,-48.89 163.8,-48.89 142.8,-12.52 163.8,23.85 205.8,23.85" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="289.8,169.35 268.8,132.97 226.8,132.97 205.8,169.35 226.8,205.72 268.8,205.72" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="289.8,96.6 268.8,60.23 226.8,60.23 205.8,96.6 226.8,132.97 268.8,132.97" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="289.8,23.85 268.8,-12.52 226.8,-12.52 205.8,23.85 226.8,60.23 268.8,60.23" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="352.8,205.72 331.8,169.35 289.8,169.35 268.8,205.72 289.8,242.09 331.8,242.09" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="352.8,132.97 331.8,96.6 289.8,96.6 268.8,132.97 289.8,169.35 331.8,169.35" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="352.8,60.23 331.8,23.85 289.8,23.85 268.8,60.23 289.8,96.6 331.8,96.6" fill="none" stroke="#777" stroke-width="1.4"/>
+<polygon points="352.8,-12.52 331.8,-48.89 289.8,-48.89 268.8,-12.52 289.8,23.85 331.8,23.85" fill="none" stroke="#777" stroke-width="1.4"/>
+<line x1="163.8" y1="96.6" x2="205.8" y2="96.6" stroke="black" stroke-width="2.4"/>
+<line x1="163.8" y1="96.6" x2="142.8" y2="60.23" stroke="black" stroke-width="2.4"/>
+<line x1="163.8" y1="96.6" x2="142.8" y2="132.97" stroke="black" stroke-width="2.4"/>
+<path d="M 176.4 96.6 A 12.6 12.6 0 0 0 157.5 85.69" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="176.4" y="74.78" dy="0.35em" font-size="22" text-anchor="middle" font-family="serif">
+?
+</text>
+<path d="M 157.5 85.69 A 12.6 12.6 0 0 0 157.5 107.51" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="138.6" y="96.6" dy="0.35em" font-size="22" text-anchor="middle" font-family="serif">
+?
+</text>
+<path d="M 157.5 107.51 A 12.6 12.6 0 0 0 176.4 96.6" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="176.4" y="118.42" dy="0.35em" font-size="22" text-anchor="middle" font-family="serif">
+?
+</text>
+<circle cx="163.8" cy="96.6" r="4.5" fill="black"/>
+</svg>
